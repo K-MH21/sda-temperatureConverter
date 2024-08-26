@@ -1,4 +1,4 @@
-﻿static string TempConvert(int temp, string tempType)
+﻿static string TempConvert(double temp, string tempType)
 {
     if (tempType == "F")
     {
