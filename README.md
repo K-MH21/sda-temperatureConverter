@@ -56,5 +56,7 @@ Program terminated.
 Part 1
 ![Output for part 1](screenshot_part_1.png)
 
+Part 2
+![Output for part 2](screenshot_part_2.png)
 
 ## **DEADLINE: 9am Tuesday 27.8**
