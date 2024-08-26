@@ -59,4 +59,7 @@ Part 1
 Part 2
 ![Output for part 2](screenshot_part_2.png)
 
+Part 3
+![Output for part 2](screenshot_part_3.png)
+
 ## **DEADLINE: 9am Tuesday 27.8**
