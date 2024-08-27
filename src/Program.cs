@@ -33,7 +33,8 @@
             double oldTempAmount;
             if (!double.TryParse(oldTempArr[0], out oldTempAmount))
             {
-                System.Console.WriteLine("Please write the first value using digits");
+                Console.WriteLine("Please write the first value using digits");
+
                 continue;
             }
 
